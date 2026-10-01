@@ -49,15 +49,86 @@ depois mostramos as tecnologias que foram utilizadas exemplo: se você fez um c�
 
 fale como rodar/instalar o seu codigo
 
+mostre prints ou gifs dele em funcionamento
+
+e por ultimo mostre quem é o autor do codigo quem fez ele
+
+**3°** **passo: a importancia de sempre atualizar os repositorios e qual versão do GitHub usar** 
+
+1. GitHub Online (pelo navegador)
+Atualizar arquivos diretamente no GitHub é a forma mais rápida e acessível, especialmente quando você precisa corrigir algo simples.
+
+Quando usar:
+
+Ajustes rápidos em arquivos de texto
+
+Correções pontuais de documentação
+
+Alterações emergenciais sem acesso ao computador principal
 
 
 
+Limitações:
+
+Não é ideal para projetos grandes
+
+Não permite testar o código antes de enviar
+
+Difícil de gerenciar varios arquivos ao mesmo tempo
 
 
+2. Git via Linha de Comando (Terminal)
+O terminal é a forma mais tradicional — e poderosa — de atualizar um repositório. Aqui você controla tudo com precisão.
 
+Fluxo básico:
 
+git add . — adiciona alterações
 
+git commit -m "mensagem" — registra o commit
 
+git push — envia ao repositório remoto
 
+Por que é tão usado?
 
+É rápido
 
+Funciona em qualquer ambiente
+
+Permite automações, scripts e integrações avançadas
+
+É a base de todas as outras ferramentas
+
+3. IDEs (Ex: VS Code)
+Usar o VS Code para fazer commits e pushes é como ter um painel visual do Git dentro do editor.
+
+Minha experiência:  
+A interface deixa tudo mais intuitivo. Você vê exatamente quais arquivos foram modificados, consegue comparar versões lado a lado e escreve mensagens de commit com mais contexto. Além disso, o VS Code mostra alertas, conflitos e sugestões de forma visual, o que reduz erros.
+
+Vantagens:
+
+Visualização clara das mudanças
+
+Integração com extensões de Git
+
+Menos risco de cometer arquivos errados
+
+Ótimo para quem está aprendendo
+
+É uma ponte perfeita entre praticidade e controle.
+
+4. GitHub Desktop
+O GitHub Desktop é uma ferramenta dedicada exclusivamente ao fluxo de commits e pushes. Ele simplifica tudo para quem não quer lidar com terminal.
+
+Como facilita o processo:
+
+Mostra todas as alterações de forma organizada
+
+Permite criar commits com poucos cliques
+
+Sincroniza repositórios locais e remotos
+
+Resolve conflitos com interface visual
+
+É ideal para quem prefere trabalhar com botões e janelas, sem perder a essência do Git.
+
+é importante sempre atualizar o repositório de pouco em pouco porque cada alteração feita fica salva e você pode fazer um versionamento de acordo com as alterações feitas além de facilitar muito na hora lembrar tudo oque você fez.
