@@ -47,7 +47,9 @@ colocar uma descrição do projeto usando uma ou duas frases
 
 depois mostramos as tecnologias que foram utilizadas exemplo: se você fez um código em Python e a versão que voce esta usando Python3.14 coloque nessa área todas tecnologias que foram usadas
 
-e colocamos como rodar
+fale como rodar/instalar o seu codigo
+
+
 
 
 
