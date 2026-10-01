@@ -53,6 +53,11 @@ mostre prints ou gifs dele em funcionamento
 
 e por ultimo mostre quem é o autor do codigo quem fez ele
 
+exemplo pratico:
+
+<img width="601" height="371" alt="image" src="https://github.com/user-attachments/assets/dbe09d7c-4f67-4431-97ab-daccd995fb8a" />
+
+
 **3°** **passo: a importancia de sempre atualizar os repositorios e qual versão do GitHub usar** 
 
 1. GitHub Online (pelo navegador)
